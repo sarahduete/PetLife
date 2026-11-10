@@ -1460,11 +1460,3 @@ h1, h2, h3 {
         width: 220px;
     }
 }
-
-.value-card h3 {
-    font-family: 'Nunito', sans-serif !important;
-    font-size: 20px !important;
-    font-weight: 800 !important;
-    color: #092D4B !important;
-    margin: 5px 0 12px;
-}
