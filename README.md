@@ -1,3 +1,3 @@
-<img width="1366" height="5444" alt="PetLife" src="https://github.com/user-attachments/assets/bb26fa00-d1fe-4a09-ae43-c7f2d50c7270" />
+<img width="1366" height="5444" alt="pet" src="https://github.com/user-attachments/assets/78756f20-39db-4e5b-ae45-d03020ccb822" />
 <p align="center">
 <div align="center">
