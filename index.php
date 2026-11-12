@@ -619,7 +619,7 @@
 
                 <span>
                     <strong>Pet<span>Life</span></strong>
-                    <small>Cliníca Veterinár</small>
+                    <small>Cliníca Veterinária</small>
                 </span>
 
             </a>
