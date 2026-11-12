@@ -10,7 +10,7 @@
 
     <title>PetLife | Clínica Veterinária</title>
 
-    <link rel="stylesheet" href="css/style.css">
+     <link rel="stylesheet" href="css/style-site.css">
 </head>
 
 <body>
