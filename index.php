@@ -38,8 +38,7 @@
                 <a href="#depoimentos">Depoimentos</a>
                 <a href="#contato">Contato</a>
 
-                <a href="https://petlife-y5a7.onrender.com/admin/login.php"></a>
-                    Entrar como administrador
+                <a href="https://petlife-y5a7.onrender.com/admin/login.php">Entrar como administrador</a>
             </nav>
 
             <a href="#contato" class="btn btn-orange">
