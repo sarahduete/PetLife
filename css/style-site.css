@@ -1461,3 +1461,23 @@ h1, h2, h3 {
     }
 }
 
+/* AJUSTE DO MENU */
+.navigation {
+    display: flex;
+    align-items: center;
+    gap: 22px;
+    flex-wrap: nowrap;
+}
+
+.navigation a {
+    white-space: nowrap;
+    font-size: 15px;
+}
+
+/* Evita que o menu fique apertado */
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 25px;
+}
