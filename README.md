@@ -1,22 +1,16 @@
-
-
-<a href="[https://autotech-lgtx.onrender.com/index.php](https://petlife-y5a7.onrender.com/)">
-  <img src="https://img.shields.io/badge/♡%20Acessar%20site-F7A8C4?style=for-the-badge&logoColor=white" />
-</a>
-
-</div>
-
 # 🐾 PetLife
 
 **Site institucional para clínica veterinária**
 
-O PetLife é um projeto desenvolvido com a proposta de criar um site para uma clínica veterinária, apresentando seus serviços e oferecendo aos visitantes uma forma simples de conhecer a clínica.
+Projeto desenvolvido com a proposta de criar um site para uma clínica veterinária, apresentando seus serviços e oferecendo aos visitantes uma forma simples de conhecer a clínica.
+
+🔗 **[Acessar o site](petlife-y5a7.onrender.com)**
 
 ---
 
 ## 📖 Sobre o projeto
 
-A ideia do PetLife surgiu da proposta de desenvolver um site para uma clínica veterinária fictícia. O objetivo era criar uma página que transmitisse confiança e acolhimento, utilizando uma identidade visual relacionada ao cuidado com os animais.
+A ideia do PetLife surgiu da proposta de desenvolver um site para uma clínica veterinária. O objetivo era criar uma página que transmitisse confiança e acolhimento, utilizando uma identidade visual relacionada ao cuidado com os animais.
 
 ## 💻 Como foi desenvolvido
 
@@ -47,9 +41,9 @@ Durante o desenvolvimento, também precisei revisar a organização dos arquivos
 
 <img width="1366" height="5444" alt="PetLife" src="https://github.com/user-attachments/assets/04aa415c-3dee-433a-b1df-ccaa6e0a4775" />
 
-
 ## 📚 Aprendizados
 
 O PetLife foi importante para praticar a criação de sites institucionais e trabalhar melhor com organização de seções e identidade visual.
 
 Durante o desenvolvimento, aprimorei meus conhecimentos em CSS, principalmente na aplicação de cores, espaçamentos, organização de elementos e criação de layouts.
+
