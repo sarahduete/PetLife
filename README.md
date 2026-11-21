@@ -36,6 +36,8 @@ Durante o desenvolvimento, também precisei revisar a organização dos arquivos
 
 - HTML
 - CSS
+- PHP
+- SQLite
 
 ## 🖥️ Prévia do projeto
 
